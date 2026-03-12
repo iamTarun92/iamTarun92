@@ -1,79 +1,56 @@
-## Hi there 👋
-
-<!--
-**iamTarun92/iamTarun92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi 👋, I'm Tarun Pandey
-
-💻 Full Stack Developer with 8+ years of experience building scalable web applications.
+<h1 align="center">Hi 👋, I'm Tarun Pandey</h1>
+<h3 align="center">Full Stack Developer | Angular | Node.js | MongoDB</h3>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Full Stack Web Applications**
-- 🌱 Exploring **advanced Angular architecture & GraphQL**
-- 👨‍💻 Experienced in **Angular, Node.js, Express.js, MongoDB**
-- ⚡ Passionate about **performance optimization and scalable systems**
-- 📫 Reach me at: **iamTarunPandey@outlook.com**
+⭐ Full Stack Developer with **8+ years experience**  
+🚀 Building scalable web applications  
+💡 Passionate about **Angular & Node.js architecture**
 
----
-
-## 🛠 Tech Stack
-
-### Frontend
-- Angular
-- Vue.js
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind / Bootstrap
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- GraphQL
-
-### Database
-- MongoDB
-- PostgreSQL
-- MySQL
-
-### Tools & Technologies
-- Git & GitHub
-- Docker
-- Postman
-- Nginx
+- 🔭 I’m currently working on **Full Stack Projects**
+- 🌱 Learning **System Design**
+- 💬 Ask me about **Angular, Node.js, GraphQL**
+- 📫 Email: **iamTarunPandey@outlook.com**
 
 ---
 
-## 📊 GitHub Stats
+# 🌐 Socials
 
-![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamTarun92&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamTarun92&layout=compact)
-
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/iamTarun92
-- LinkedIn: (add your linkedin link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![YouTube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube)](https://youtube.com)
 
 ---
 
-⭐️ From [Tarun Pandey](https://github.com/iamTarun92)
+# 🧰 Tech Stack
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+
+![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamTarun92&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamTarun92&layout=compact&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=iamTarun92&theme=tokyonight)
+
+---
+
+# 👀 Visitor Count
+
+![](https://komarev.com/ghpvc/?username=iamTarun92)
