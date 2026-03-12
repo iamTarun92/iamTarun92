@@ -23,18 +23,13 @@
 
 ---
 
-# 🧰 Tech Stack
+# 💻 Tech Stack
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-
-![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
-
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=flat&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-E10098?style=flat&logo=graphql)
 ---
 
 # 📊 GitHub Stats
