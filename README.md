@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Full Stack Projects**
 - 🌱 Learning **System Design**
 - 💬 Ask me about **Angular, Node.js, GraphQL**
-- 📫 Email: **iamTarunPandey@outlook.com**
+- 📫 Email: **pandeyt152@gmail.com**
 
 ---
 
