@@ -19,7 +19,6 @@
 # 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tarundevcoder/)
-[![YouTube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube)](https://youtube.com)
 
 ---
 
